@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
 
-cl = LINE("email@gmail.com","password")
+cl = LINE("bonijom425@ximtyl.com","perez567")
 #cl = LineClient(authToken='Tokwn Luu')
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Channel Access Token : " + str(cl.tl.channelAccessToken))
